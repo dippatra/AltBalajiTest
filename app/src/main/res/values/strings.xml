@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="movie_list">Movie List</string>
+    <string name="search_text">Search Your favourite Movie</string>
+    <string name="no_results">Please provide correct movie name.</string>
+    <string name="releasedHeaderText">Released Date</string>
+    <string name="runtimeHeaderText">Runtime</string>
+    <string name="directorHeaderText">Director</string>
+    <string name="genreHeaderText">Genre</string>
+    <string name="castHeaderText">Cast</string>
+    <string name="plotHeaderText">Movie Plot</string>
+    <string name="no_internet">Please re-connect to the internet to proceed</string>
+</resources>
